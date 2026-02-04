@@ -75,6 +75,7 @@ These decisions reflect common challenges faced in real analytics and BI project
 ---
 
 ## Project Structure
+```
 netflix-content-intelligence/
 │
 ├── data/
@@ -95,4 +96,4 @@ netflix-content-intelligence/
 │ └── dashboard_preview.png
 │
 └── README.md
-
+```
